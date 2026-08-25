@@ -1,6 +1,6 @@
 # ServerGovnaV2
-моды
-пу-пу-пу
+# моды
+# пу-пу-пу
 всем приф 
 моды которые нужны для захода на сервер
 https://drive.google.com/drive/folders/1NPFHdq_oUzTErkK0zlazjafU68edrowV?usp=drive_link
